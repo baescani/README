@@ -8,9 +8,9 @@
 
 ### Посмотреть портфолио можно по ссылке ниже или в репозитории:
 
-[Портфолио SQL](https://github.com/zhuravleva-ekaterina/MY-SQL-portfolio)
+[Портфолио SQL](https://github.com/baescani/MY-SQL-portfolio)
   
-[Портфолио "Аналитик данных"](https://github.com/zhuravleva-ekaterina/data_analyst_portfolio)
+[Портфолио "Аналитик данных"](https://github.combaescani/data_analyst_portfolio)
 
 ### Связаться со мной: 
 
