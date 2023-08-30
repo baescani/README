@@ -9,7 +9,7 @@
 
 [Портфолио SQL](https://github.com/baescani/MY-SQL-portfolio)
   
-[Портфолио "Аналитик данных"]([https://github.combaescani/data_analyst_portfolio](https://github.com/baescani/data_analyst_course))
+[Портфолио "Аналитик данных"](https://github.com/baescani/data_analyst_course)
 
 ### Связаться со мной: 
 
